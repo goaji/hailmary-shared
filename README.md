@@ -7,7 +7,7 @@ same source instead of drifting copies.
 Ships raw TypeScript/JSON — no build step. Depend on it as a git tag:
 
 ```json
-"@hailmary/shared": "github:lucistana/hailmary-shared#v1.0.0"
+"@hailmary/shared": "github:goaji/hailmary-shared#v1.0.0"
 ```
 
 ## Exports
