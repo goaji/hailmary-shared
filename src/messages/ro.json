@@ -38,7 +38,10 @@
     "allCategories": "Toate",
     "teamFilterLabel": "Echipă",
     "allTeams": "Toate echipele",
-    "emptyFiltered": "Nu sunt încă știri pentru acest filtru."
+    "emptyFiltered": "Nu sunt încă știri pentru acest filtru.",
+    "viewToggleLabel": "Mod de afișare",
+    "gridView": "Grilă",
+    "listView": "Listă"
   },
   "teamDetail": {
     "metaDescription": "{team} — știri, program și informații din NFL.",

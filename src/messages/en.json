@@ -38,7 +38,10 @@
     "allCategories": "All",
     "teamFilterLabel": "Team",
     "allTeams": "All teams",
-    "emptyFiltered": "No news matching this filter yet."
+    "emptyFiltered": "No news matching this filter yet.",
+    "viewToggleLabel": "Display mode",
+    "gridView": "Grid",
+    "listView": "List"
   },
   "teamDetail": {
     "metaDescription": "{team} — NFL news, schedule and team info.",
