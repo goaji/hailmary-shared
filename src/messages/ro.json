@@ -95,7 +95,8 @@
       "history": "Istoria fotbalului american"
     },
     "schedule": {
-      "heading": "PROGRAMUL SĂPTĂMÂNII"
+      "heading": "PROGRAMUL SĂPTĂMÂNII",
+      "empty": "Niciun meci programat momentan."
     }
   },
   "byline": {
@@ -146,6 +147,7 @@
     "title": "Program",
     "metaDescription": "Programul complet al sezonului NFL, cu scoruri live și ora de start în fusul orar românesc.",
     "liveUnavailableNotice": "Scorurile live nu sunt disponibile momentan. Mai jos este programul de bază, fără scoruri.",
+    "empty": "Niciun meci programat momentan. Reveniți în curând pentru programul actualizat.",
     "weekNavLabel": "Selectează etapa",
     "week": "Etapa {week}",
     "updatedAt": "Actualizat {time}"

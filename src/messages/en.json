@@ -95,7 +95,8 @@
       "history": "History of American football"
     },
     "schedule": {
-      "heading": "THIS WEEK'S SCHEDULE"
+      "heading": "THIS WEEK'S SCHEDULE",
+      "empty": "No games scheduled right now."
     }
   },
   "byline": {
@@ -146,6 +147,7 @@
     "title": "Schedule",
     "metaDescription": "The full NFL season schedule, with live scores and kickoff times in Romanian local time.",
     "liveUnavailableNotice": "Live scores aren't available right now. Below is the base schedule, without scores.",
+    "empty": "No games scheduled right now. Check back soon for the updated schedule.",
     "weekNavLabel": "Select week",
     "week": "Week {week}",
     "updatedAt": "Updated {time}"
