@@ -70,7 +70,8 @@
     "antrenori": "Coaches",
     "draft": "Draft",
     "program": "Schedule",
-    "regulament": "Rules"
+    "regulament": "Rules",
+    "meciuri": "Games"
   },
   "originStrip": {
     "kicker": "WHERE \"HAIL MARY\" COMES FROM",
