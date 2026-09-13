@@ -145,6 +145,24 @@
   "rulesPage": {
     "tocLabel": "Cuprins"
   },
+  "downSystemDiagram": {
+    "widgetLabel": "Simulator sistem de down-uri",
+    "down1": "1ST",
+    "down2": "2ND",
+    "down3": "3RD",
+    "down4": "4TH",
+    "downAndDistance": "{down} & {yards}",
+    "ownGoalLabel": "Poarta proprie",
+    "opponentEndZoneLabel": "End zone advers",
+    "actionGainShort": "+3 yarzi",
+    "actionGainFirstDown": "+7 yarzi",
+    "actionNoGain": "Placaj, fără câștig",
+    "actionSack": "Sac (-5 yarzi)",
+    "outcomeFirstDown": "FIRST DOWN!",
+    "outcomeTurnover": "TURNOVER ON DOWNS",
+    "outcomeTouchdown": "TOUCHDOWN!",
+    "resetButton": "Rundă nouă"
+  },
   "wikiHub": {
     "title": "Wiki",
     "metaDescription": "Ghidul complet al fotbalului american — reguli, poziții, strategie, structura ligii și istorie, explicate pentru un începător.",

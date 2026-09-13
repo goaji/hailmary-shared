@@ -145,6 +145,24 @@
   "rulesPage": {
     "tocLabel": "Contents"
   },
+  "downSystemDiagram": {
+    "widgetLabel": "Down system simulator",
+    "down1": "1ST",
+    "down2": "2ND",
+    "down3": "3RD",
+    "down4": "4TH",
+    "downAndDistance": "{down} & {yards}",
+    "ownGoalLabel": "Own goal line",
+    "opponentEndZoneLabel": "Opponent's end zone",
+    "actionGainShort": "+3 yards",
+    "actionGainFirstDown": "+7 yards",
+    "actionNoGain": "Tackled, no gain",
+    "actionSack": "Sack (-5 yards)",
+    "outcomeFirstDown": "FIRST DOWN!",
+    "outcomeTurnover": "TURNOVER ON DOWNS",
+    "outcomeTouchdown": "TOUCHDOWN!",
+    "resetButton": "New drive"
+  },
   "wikiHub": {
     "title": "Wiki",
     "metaDescription": "The complete guide to American football — rules, positions, strategy, league structure and history, explained for newcomers.",
