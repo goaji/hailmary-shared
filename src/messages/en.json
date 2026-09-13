@@ -145,6 +145,14 @@
   "rulesPage": {
     "tocLabel": "Contents"
   },
+  "fieldDiagram": {
+    "widgetLabel": "Annotated field diagram",
+    "hotspotYardLines": "Yard lines",
+    "hotspotHashMarks": "Hash marks",
+    "hotspotEndZones": "End zones",
+    "hotspotRedZone": "Red zone",
+    "hotspotLineOfScrimmage": "Line of scrimmage"
+  },
   "downSystemDiagram": {
     "widgetLabel": "Down system simulator",
     "down1": "1ST",

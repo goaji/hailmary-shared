@@ -145,6 +145,14 @@
   "rulesPage": {
     "tocLabel": "Cuprins"
   },
+  "fieldDiagram": {
+    "widgetLabel": "Diagrama terenului adnotată",
+    "hotspotYardLines": "Liniile de yarzi",
+    "hotspotHashMarks": "Hash marks",
+    "hotspotEndZones": "End zone-uri",
+    "hotspotRedZone": "Red zone",
+    "hotspotLineOfScrimmage": "Linia de scrimmage"
+  },
   "downSystemDiagram": {
     "widgetLabel": "Simulator sistem de down-uri",
     "down1": "1ST",
