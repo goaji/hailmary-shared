@@ -9,6 +9,7 @@
   "nav": {
     "mainLabel": "Main navigation",
     "toggleLabel": "Menu",
+    "wiki": "Wiki",
     "news": "News",
     "teams": "Teams",
     "rules": "Rules",
@@ -143,6 +144,44 @@
   },
   "rulesPage": {
     "tocLabel": "Contents"
+  },
+  "wikiHub": {
+    "title": "Wiki",
+    "metaDescription": "The complete guide to American football — rules, positions, strategy, league structure and history, explained for newcomers.",
+    "intro": "Five strands that take you from the basic rules to a full understanding of the game."
+  },
+  "wikiStrands": {
+    "the-game": {
+      "name": "The Game",
+      "description": "The mechanics — how to follow a play."
+    },
+    "chess-match": {
+      "name": "The Chess Match",
+      "description": "Positions and strategy — the game's depth layer."
+    },
+    "the-league": {
+      "name": "The League",
+      "description": "How the competition is structured."
+    },
+    "the-numbers": {
+      "name": "Understanding the Numbers",
+      "description": "What the stats mean."
+    },
+    "istorie": {
+      "name": "History",
+      "description": "The sport's story and record."
+    }
+  },
+  "wikiRail": {
+    "label": "Wiki navigation",
+    "mobileLabel": "Wiki sections"
+  },
+  "wikiPage": {
+    "tocLabel": "On this page",
+    "breadcrumbNavLabel": "Breadcrumb",
+    "readingThreadNavLabel": "Wiki pages",
+    "prev": "Previous",
+    "next": "Next"
   },
   "schedulePage": {
     "title": "Schedule",

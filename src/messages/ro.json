@@ -9,6 +9,7 @@
   "nav": {
     "mainLabel": "Navigare principală",
     "toggleLabel": "Meniu",
+    "wiki": "Wiki",
     "news": "Știri",
     "teams": "Echipe",
     "rules": "Regulament",
@@ -143,6 +144,44 @@
   },
   "rulesPage": {
     "tocLabel": "Cuprins"
+  },
+  "wikiHub": {
+    "title": "Wiki",
+    "metaDescription": "Ghidul complet al fotbalului american — reguli, poziții, strategie, structura ligii și istorie, explicate pentru un începător.",
+    "intro": "Cinci secțiuni care te duc de la primele reguli până la înțelegerea completă a jocului."
+  },
+  "wikiStrands": {
+    "the-game": {
+      "name": "Jocul",
+      "description": "Cum urmărești o fază — regulile de bază ale jocului."
+    },
+    "chess-match": {
+      "name": "Șahul tactic",
+      "description": "Poziții și strategie — stratul de profunzime al jocului."
+    },
+    "the-league": {
+      "name": "Liga",
+      "description": "Cum e organizată competiția."
+    },
+    "the-numbers": {
+      "name": "Cifrele",
+      "description": "Ce înseamnă cifrele și statisticile."
+    },
+    "istorie": {
+      "name": "Istorie",
+      "description": "Povestea și recordurile sportului."
+    }
+  },
+  "wikiRail": {
+    "label": "Navigare Wiki",
+    "mobileLabel": "Secțiuni Wiki"
+  },
+  "wikiPage": {
+    "tocLabel": "Pe această pagină",
+    "breadcrumbNavLabel": "Fir de navigare",
+    "readingThreadNavLabel": "Pagini Wiki",
+    "prev": "Înapoi",
+    "next": "Înainte"
   },
   "schedulePage": {
     "title": "Program",
