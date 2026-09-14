@@ -116,6 +116,11 @@
   "articleTeams": {
     "label": "Despre"
   },
+  "articleRail": {
+    "heading": "Ultimele știri",
+    "label": "Navigare știri",
+    "mobileLabel": "Alte știri"
+  },
   "articlePrevNext": {
     "navLabel": "Articole",
     "previous": "Articolul anterior",
