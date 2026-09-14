@@ -145,6 +145,20 @@
   "rulesPage": {
     "tocLabel": "Contents"
   },
+  "offensivePositionsDiagram": {
+    "widgetLabel": "Interactive offensive formation",
+    "hint": "Click a player in the formation.",
+    "qbLabel": "Quarterback (QB)",
+    "qbBlurb": "The brains of the offense — decides every play.",
+    "rbLabel": "Running back (RB)",
+    "rbBlurb": "Runs with the ball, gains yards on the ground.",
+    "wrLabel": "Wide receiver (WR)",
+    "wrBlurb": "Catches passes out on the edges.",
+    "teLabel": "Tight end (TE)",
+    "teBlurb": "A hybrid: blocks and catches passes.",
+    "olLabel": "Offensive line (OL)",
+    "olBlurb": "Protects the quarterback, opens running lanes."
+  },
   "fieldDiagram": {
     "widgetLabel": "Annotated field diagram",
     "hotspotYardLines": "Yard lines",

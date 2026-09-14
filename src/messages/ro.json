@@ -145,6 +145,20 @@
   "rulesPage": {
     "tocLabel": "Cuprins"
   },
+  "offensivePositionsDiagram": {
+    "widgetLabel": "Formație ofensivă interactivă",
+    "hint": "Apasă pe un jucător din formație.",
+    "qbLabel": "Quarterback (QB)",
+    "qbBlurb": "Creierul atacului — decide fiecare fază.",
+    "rbLabel": "Running back (RB)",
+    "rbBlurb": "Aleargă cu mingea, câștigă yarzi pe pământ.",
+    "wrLabel": "Wide receiver (WR)",
+    "wrBlurb": "Prinde pasele pe margini.",
+    "teLabel": "Tight end (TE)",
+    "teBlurb": "Hibrid: blochează și prinde pase.",
+    "olLabel": "Linia ofensivă (OL)",
+    "olBlurb": "Protejează quarterback-ul, deschide culoarele de alergare."
+  },
   "fieldDiagram": {
     "widgetLabel": "Diagrama terenului adnotată",
     "hotspotYardLines": "Liniile de yarzi",
