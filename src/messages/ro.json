@@ -372,12 +372,13 @@
   },
   "schedulePage": {
     "title": "Program",
+    "titleWithWeek": "Program: Săptămâna {week}",
     "metaDescription": "Programul complet al sezonului NFL, cu scoruri live și ora de start în fusul orar românesc.",
     "liveUnavailableNotice": "Scorurile live nu sunt disponibile momentan. Mai jos este programul de bază, fără scoruri.",
     "empty": "Niciun meci programat momentan. Reveniți în curând pentru programul actualizat.",
     "weekNavLabel": "Selectează etapa",
-    "weeksHeading": "Etape",
-    "week": "Etapa {week}",
+    "weeksHeading": "Săptămâna",
+    "week": "Săptămâna {week}",
     "updatedAt": "Actualizat {time}"
   },
   "scheduleTable": {
