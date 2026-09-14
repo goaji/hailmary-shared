@@ -18,8 +18,14 @@ not just an install-time inconvenience either — Node's own module loader
 refuses to type-strip `.ts` files that live under `node_modules`, which is
 exactly where a git dependency lands, so shipping raw TypeScript breaks any
 consumer that touches it without a bundler in front (Playwright's test
-runner, most notably — the reason this package exists). Run `npm run
-build` and commit the result before tagging a release.
+runner, most notably — the reason this package exists).
+
+`dist/`, the `package.json` version, and the release tag are kept in sync
+automatically: every push to `main` triggers
+[`.github/workflows/bump-version.yml`](.github/workflows/bump-version.yml),
+which rebuilds `dist/`, bumps the patch version, commits, and pushes a
+matching `vX.Y.Z` tag. Don't hand-edit the `version` field or tag releases
+manually — just push to `main`.
 
 ## Exports
 
@@ -33,4 +39,5 @@ build` and commit the result before tagging a release.
 
 A version bump (new tag) is the only thing that keeps `hailmary` and
 `hailmary-e2e` in sync — there's no build-time check across repos for
-that. Tag and update both consumers' dependency together.
+that. Every push to `main` bumps and tags automatically (see above); after
+that, update both consumers' dependency to the new tag together.
