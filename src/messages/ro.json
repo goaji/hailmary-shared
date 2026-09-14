@@ -159,6 +159,18 @@
     "olLabel": "Linia ofensivă (OL)",
     "olBlurb": "Protejează quarterback-ul, deschide culoarele de alergare."
   },
+  "defensivePositionsDiagram": {
+    "widgetLabel": "Formație defensivă interactivă",
+    "hint": "Apasă pe un jucător din formație.",
+    "dlLabel": "Linia defensivă (DL)",
+    "dlBlurb": "Oprește alergările și presează quarterback-ul.",
+    "lbLabel": "Linebackers (LB)",
+    "lbBlurb": "Versatili — opresc alergări, acoperă pase, atacă quarterback-ul.",
+    "cbLabel": "Cornerbacks (CB)",
+    "cbBlurb": "Marchează wide receiverii, adesea om la om.",
+    "sLabel": "Safeties (S)",
+    "sBlurb": "Ultima linie de apărare — previne pasele lungi."
+  },
   "fieldDiagram": {
     "widgetLabel": "Diagrama terenului adnotată",
     "hotspotYardLines": "Liniile de yarzi",

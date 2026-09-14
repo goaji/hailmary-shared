@@ -159,6 +159,18 @@
     "olLabel": "Offensive line (OL)",
     "olBlurb": "Protects the quarterback, opens running lanes."
   },
+  "defensivePositionsDiagram": {
+    "widgetLabel": "Interactive defensive formation",
+    "hint": "Click a player in the formation.",
+    "dlLabel": "Defensive line (DL)",
+    "dlBlurb": "Stops the run and pressures the quarterback.",
+    "lbLabel": "Linebackers (LB)",
+    "lbBlurb": "Versatile — stop runs, cover passes, blitz the quarterback.",
+    "cbLabel": "Cornerbacks (CB)",
+    "cbBlurb": "Cover wide receivers, often man-to-man.",
+    "sLabel": "Safeties (S)",
+    "sBlurb": "The last line of defense — prevents the deep pass."
+  },
   "fieldDiagram": {
     "widgetLabel": "Annotated field diagram",
     "hotspotYardLines": "Yard lines",
