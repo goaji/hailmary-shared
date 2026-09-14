@@ -376,6 +376,7 @@
     "liveUnavailableNotice": "Live scores aren't available right now. Below is the base schedule, without scores.",
     "empty": "No games scheduled right now. Check back soon for the updated schedule.",
     "weekNavLabel": "Select week",
+    "weeksHeading": "Weeks",
     "week": "Week {week}",
     "updatedAt": "Updated {time}"
   },

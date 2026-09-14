@@ -376,6 +376,7 @@
     "liveUnavailableNotice": "Scorurile live nu sunt disponibile momentan. Mai jos este programul de bază, fără scoruri.",
     "empty": "Niciun meci programat momentan. Reveniți în curând pentru programul actualizat.",
     "weekNavLabel": "Selectează etapa",
+    "weeksHeading": "Etape",
     "week": "Etapa {week}",
     "updatedAt": "Actualizat {time}"
   },
