@@ -150,8 +150,7 @@
     "hotspotYardLines": "Yard lines",
     "hotspotHashMarks": "Hash marks",
     "hotspotEndZones": "End zones",
-    "hotspotRedZone": "Red zone",
-    "hotspotLineOfScrimmage": "Line of scrimmage"
+    "hotspotRedZone": "Red zone"
   },
   "downSystemDiagram": {
     "widgetLabel": "Down system simulator",

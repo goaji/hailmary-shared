@@ -150,8 +150,7 @@
     "hotspotYardLines": "Liniile de yarzi",
     "hotspotHashMarks": "Hash marks",
     "hotspotEndZones": "End zone-uri",
-    "hotspotRedZone": "Red zone",
-    "hotspotLineOfScrimmage": "Linia de scrimmage"
+    "hotspotRedZone": "Red zone"
   },
   "downSystemDiagram": {
     "widgetLabel": "Simulator sistem de down-uri",
