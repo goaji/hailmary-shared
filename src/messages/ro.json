@@ -393,7 +393,7 @@
     "notStarted": "Nejucat încă"
   },
   "liveScoreBadge": {
-    "live": "în direct",
+    "live": "Live",
     "quarterClock": "Sfertul {quarter} · {clock}"
   },
   "referenceLinks": {
