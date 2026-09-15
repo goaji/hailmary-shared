@@ -138,12 +138,15 @@
   },
   "glossary": {
     "title": "Glosar",
+    "pageTitle": "Glosar: {letter}",
     "metaDescription": "Termenii de fotbal american explicați pe scurt, în română.",
     "filterLabel": "Caută un termen",
     "filterPlaceholder": "ex. blitz, safety, spread",
     "noResults": "Niciun termen nu corespunde căutării tale.",
     "seeAlso": "Vezi și",
-    "fallbackNotice": "Acest termen este disponibil momentan doar în română."
+    "fallbackNotice": "Acest termen este disponibil momentan doar în română.",
+    "railLabel": "Navigare în glosar",
+    "railMobileLabel": "Litere"
   },
   "rulesPage": {
     "tocLabel": "Cuprins"

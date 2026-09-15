@@ -138,12 +138,15 @@
   },
   "glossary": {
     "title": "Glossary",
+    "pageTitle": "Glossary: {letter}",
     "metaDescription": "American football terms explained simply, for newcomers and fans alike.",
     "filterLabel": "Search for a term",
     "filterPlaceholder": "e.g. blitz, safety, spread",
     "noResults": "No terms match your search.",
     "seeAlso": "See also",
-    "fallbackNotice": "This term is currently only available in Romanian."
+    "fallbackNotice": "This term is currently only available in Romanian.",
+    "railLabel": "Glossary navigation",
+    "railMobileLabel": "Letters"
   },
   "rulesPage": {
     "tocLabel": "Contents"
