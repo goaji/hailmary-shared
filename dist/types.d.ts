@@ -5,6 +5,7 @@ export type Game = {
     awayTeamId: string;
     /** ISO datetime string */
     kickoff: string;
+    season: number;
     week: number;
     status: GameStatus;
     homeScore?: number;
