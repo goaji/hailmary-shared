@@ -17,3 +17,5 @@ Object.defineProperty(exports, "__esModule", { value: true });
 __exportStar(require("./teams"), exports);
 __exportStar(require("./contrast"), exports);
 __exportStar(require("./types"), exports);
+__exportStar(require("./categories"), exports);
+__exportStar(require("./tags"), exports);
