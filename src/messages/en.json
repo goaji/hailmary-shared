@@ -70,8 +70,18 @@
     "draft": "Draft",
     "program": "Schedule",
     "regulament": "Rules",
-    "meciuri": "Games"
+    "meciuri": "Games",
+    "media": "Media"
   },
+  "tags": {
+  "playoffs": "Playoffs",
+  "super-bowl": "Super Bowl",
+  "intrebari": "Questions",
+  "bulletpoints": "Bullet points",
+  "media": "Media",
+  "DAZN": "DAZN",
+  "YouTube": "YouTube"
+},
   "originStrip": {
     "kicker": "WHERE \"HAIL MARY\" COMES FROM",
     "phrase1": "December 28, 1975, playoffs.",

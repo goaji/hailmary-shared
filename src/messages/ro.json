@@ -70,8 +70,18 @@
     "draft": "Draft",
     "program": "Program",
     "regulament": "Regulament",
-    "meciuri": "Meciuri"
+    "meciuri": "Meciuri",
+    "media": "Media"
   },
+  "tags": {
+  "playoffs": "Playoff",
+  "super-bowl": "Super Bowl",
+  "intrebari": "Întrebări",
+  "bulletpoints": "Bullet points",
+  "media": "Media",
+  "DAZN": "DAZN",
+  "YouTube": "YouTube"
+},
   "originStrip": {
     "kicker": "DE UNDE VINE „HAIL MARY”",
     "phrase1": "28 decembrie 1975, play-off.",
