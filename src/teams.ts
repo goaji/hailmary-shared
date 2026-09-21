@@ -103,6 +103,11 @@ export function getTeam(slug: string): Team {
 export const CONFERENCES: Conference[] = ['AFC', 'NFC'];
 export const DIVISIONS: Division[] = ['East', 'North', 'South', 'West'];
 
+// The label a division's group carries in team pickers.
+export function divisionLabel(conference: Conference, division: Division): string {
+  return `${conference} ${division}`;
+}
+
 export function getTeamsByDivision(conference: Conference, division: Division): Team[] {
   return TEAMS.filter((team) => team.conference === conference && team.division === division);
 }

@@ -19,6 +19,7 @@ export declare function getTeam(slug: string): Team;
 /** Display order for the /echipe index — AFC then NFC, East/North/South/West within. */
 export declare const CONFERENCES: Conference[];
 export declare const DIVISIONS: Division[];
+export declare function divisionLabel(conference: Conference, division: Division): string;
 export declare function getTeamsByDivision(conference: Conference, division: Division): Team[];
 /**
  * The neighbouring teams either side of `currentSlug` in TEAMS's own order

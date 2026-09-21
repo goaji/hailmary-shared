@@ -2,6 +2,7 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.PICKER_TEAMS = exports.DIVISIONS = exports.CONFERENCES = exports.DEFAULT_TEAM = exports.TEAMS_BY_SLUG = exports.TEAMS = void 0;
 exports.getTeam = getTeam;
+exports.divisionLabel = divisionLabel;
 exports.getTeamsByDivision = getTeamsByDivision;
 exports.getAdjacentTeams = getAdjacentTeams;
 exports.onBrandColor = onBrandColor;
@@ -56,6 +57,10 @@ function getTeam(slug) {
 /** Display order for the /echipe index — AFC then NFC, East/North/South/West within. */
 exports.CONFERENCES = ['AFC', 'NFC'];
 exports.DIVISIONS = ['East', 'North', 'South', 'West'];
+// The label a division's group carries in team pickers.
+function divisionLabel(conference, division) {
+    return `${conference} ${division}`;
+}
 function getTeamsByDivision(conference, division) {
     return exports.TEAMS.filter((team) => team.conference === conference && team.division === division);
 }
