@@ -42,10 +42,7 @@
     "allCategories": "All",
     "teamFilterLabel": "Team",
     "allTeams": "All teams",
-    "emptyFiltered": "No news matching this filter yet.",
-    "viewToggleLabel": "Display mode",
-    "gridView": "Grid",
-    "listView": "List"
+    "emptyFiltered": "No news matching this filter yet."
   },
   "teamDetail": {
     "metaDescription": "{team} — NFL news, schedule and team info.",
@@ -55,11 +52,8 @@
     },
     "schedule": {
       "heading": "Schedule",
-      "empty": "No games currently scheduled for {team}."
-    },
-    "blurb": {
-      "heading": "About the team",
-      "placeholder": "Team-specific content is coming soon."
+      "empty": "No games currently scheduled for {team}.",
+      "caption": "{team} schedule"
     },
     "prevNext": {
       "navLabel": "Teams",

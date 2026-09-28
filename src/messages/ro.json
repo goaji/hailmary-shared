@@ -42,10 +42,7 @@
     "allCategories": "Toate",
     "teamFilterLabel": "Echipă",
     "allTeams": "Toate echipele",
-    "emptyFiltered": "Nu sunt încă știri pentru acest filtru.",
-    "viewToggleLabel": "Mod de afișare",
-    "gridView": "Grilă",
-    "listView": "Listă"
+    "emptyFiltered": "Nu sunt încă știri pentru acest filtru."
   },
   "teamDetail": {
     "metaDescription": "{team} — știri, program și informații din NFL.",
@@ -55,11 +52,8 @@
     },
     "schedule": {
       "heading": "Program",
-      "empty": "Niciun meci programat momentan pentru {team}."
-    },
-    "blurb": {
-      "heading": "Despre echipă",
-      "placeholder": "Conținutul dedicat acestei echipe este în lucru."
+      "empty": "Niciun meci programat momentan pentru {team}.",
+      "caption": "Programul echipei {team}"
     },
     "prevNext": {
       "navLabel": "Echipe",
