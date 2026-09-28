@@ -76,12 +76,12 @@
   "tags": {
     "playoffs": "Playoff",
     "super-bowl": "Super Bowl",
-  "intrebari": "Întrebări",
-  "bulletpoints": "Bullet points",
-  "media": "Media",
-  "dazn": "DAZN",
-  "youtube": "YouTube"
-},
+    "intrebari": "Întrebări",
+    "bulletpoints": "Bullet points",
+    "media": "Media",
+    "dazn": "DAZN",
+    "youtube": "YouTube"
+  },
   "originStrip": {
     "kicker": "DE UNDE VINE „HAIL MARY”",
     "phrase1": "28 decembrie 1975, play-off.",
@@ -107,6 +107,12 @@
     "schedule": {
       "heading": "PROGRAMUL SĂPTĂMÂNII",
       "empty": "Niciun meci programat momentan."
+    },
+    "recentArticles": {
+      "heading": "Ultimele știri"
+    },
+    "tags": {
+      "heading": "Etichete"
     }
   },
   "byline": {
@@ -125,11 +131,6 @@
   },
   "articleTeams": {
     "label": "Despre"
-  },
-  "articleRail": {
-    "heading": "Ultimele știri",
-    "label": "Navigare știri",
-    "mobileLabel": "Alte știri"
   },
   "articlePrevNext": {
     "navLabel": "Articole",

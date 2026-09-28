@@ -74,14 +74,14 @@
     "media": "Media"
   },
   "tags": {
-  "playoffs": "Playoffs",
-  "super-bowl": "Super Bowl",
-  "intrebari": "Questions",
-  "bulletpoints": "Bullet points",
-  "media": "Media",
-  "dazn": "DAZN",
-  "youtube": "YouTube"
-},
+    "playoffs": "Playoffs",
+    "super-bowl": "Super Bowl",
+    "intrebari": "Questions",
+    "bulletpoints": "Bullet points",
+    "media": "Media",
+    "dazn": "DAZN",
+    "youtube": "YouTube"
+  },
   "originStrip": {
     "kicker": "WHERE \"HAIL MARY\" COMES FROM",
     "phrase1": "December 28, 1975, playoffs.",
@@ -107,6 +107,12 @@
     "schedule": {
       "heading": "THIS WEEK'S SCHEDULE",
       "empty": "No games scheduled right now."
+    },
+    "recentArticles": {
+      "heading": "Latest news"
+    },
+    "tags": {
+      "heading": "Tags"
     }
   },
   "byline": {
@@ -125,11 +131,6 @@
   },
   "articleTeams": {
     "label": "About"
-  },
-  "articleRail": {
-    "heading": "Latest news",
-    "label": "News navigation",
-    "mobileLabel": "More news"
   },
   "articlePrevNext": {
     "navLabel": "Articles",
