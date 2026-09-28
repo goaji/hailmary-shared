@@ -26,7 +26,12 @@
   },
   "teams": {
     "title": "Echipe",
-    "metaDescription": "Toate cele 32 de echipe din NFL, grupate pe conferință și divizie."
+    "metaDescription": "Toate cele 32 de echipe din NFL, grupate pe conferință și divizie.",
+    "intro": "NFL are 32 de echipe, împărțite în două conferințe, AFC și NFC. Fiecare conferință are patru divizii — East, North, South și West — cu câte patru echipe.",
+    "pickPrompt": "Alege o echipă din listă ca să vezi știrile și programul ei.",
+    "learnMore": "Cum funcționează conferințele și diviziile",
+    "railLabel": "Navigare echipe",
+    "railMobileLabel": "Alege echipa"
   },
   "newsIndex": {
     "title": "Știri",

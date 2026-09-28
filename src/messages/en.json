@@ -26,7 +26,12 @@
   },
   "teams": {
     "title": "Teams",
-    "metaDescription": "All 32 NFL teams, grouped by conference and division."
+    "metaDescription": "All 32 NFL teams, grouped by conference and division.",
+    "intro": "The NFL has 32 teams, split into two conferences, the AFC and the NFC. Each conference has four divisions — East, North, South and West — with four teams in each.",
+    "pickPrompt": "Pick a team from the list to see its news and schedule.",
+    "learnMore": "How conferences and divisions work",
+    "railLabel": "Team navigation",
+    "railMobileLabel": "Choose a team"
   },
   "newsIndex": {
     "title": "News",
